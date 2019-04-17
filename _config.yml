@@ -23,6 +23,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 canonical_url: "https://amnh-sciviz.github.io"
 
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 theme: minima

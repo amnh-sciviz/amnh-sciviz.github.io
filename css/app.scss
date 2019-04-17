@@ -26,6 +26,12 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
 p,
 blockquote {
   line-height: 1.8;
@@ -56,12 +62,16 @@ hr {
 }
 .container {
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1rem 1rem 5rem;
   max-width: $containerWidth;
   box-sizing: border-box;
 }
 
 header {
+  border-bottom: 4px solid black;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+
   h1 {
     letter-spacing: 0.1rem;
     margin: 2rem 0 0;
@@ -75,6 +85,43 @@ header {
   }
 }
 
-.nowrap {
-  white-space: nowrap;
+.projects {
+  @include clearfix();
+
+  li {
+    display: block;
+    float: left;
+    width: 48%;
+    margin-bottom: 1rem;
+  }
+  li:nth-child(even) {
+    margin-left: 4%;
+  }
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.8rem;
+  }
+  a {
+    padding: 1rem;
+  }
+
+}
+
+@media (max-width: 660px) {
+  header h1 {
+    margin-top: 0;
+  }
+
+  .projects {
+    li {
+      float: none;
+      width: auto;
+      margin-bottom: 1rem;
+    }
+    li:nth-child(even) {
+      margin-left: 0;
+    }
+  }
 }
