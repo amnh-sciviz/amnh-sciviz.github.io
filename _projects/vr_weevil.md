@@ -12,6 +12,10 @@ Working with Museum scientist Steve Davis, we developed an immersive, VR experie
 
 <video src="/assets/video/vr_weevil.mp4" muted autoplay loop controls></video>
 
-Here's another interactive view of the weevil model in 3d
+A visualization of weevil CT scan data:
+
+<video src="/assets/video/weevil_ct_scan.mp4" muted autoplay loop controls></video>
+
+Here's another interactive view of the weevil model in 3d:
 
 <video src="/assets/video/weevil_model.mp4" muted autoplay loop controls></video>
