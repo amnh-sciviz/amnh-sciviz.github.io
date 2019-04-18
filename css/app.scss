@@ -123,11 +123,9 @@ footer {
 
 
 .projects {
-  @include clearfix();
 
   li {
-    display: block;
-    float: left;
+    display: inline-block;
     width: 48%;
     margin-bottom: 1rem;
   }
@@ -153,9 +151,8 @@ footer {
 
   .projects {
     li {
-      float: none;
+      display: block;
       width: auto;
-      margin-bottom: 1rem;
     }
     li:nth-child(even) {
       margin-left: 0;
