@@ -75,7 +75,7 @@ hr {
 }
 .container {
   margin: 0 auto;
-  padding: 1rem 1rem 5rem;
+  padding: 1rem;
   max-width: $containerWidth;
   box-sizing: border-box;
 }
@@ -97,7 +97,6 @@ header {
     line-height: 1.8;
   }
 }
-
 .page header {
   @include visuallyHidden();
 }
@@ -114,6 +113,12 @@ nav {
     display: inline-block;
     margin: 0 0.4rem;
   }
+}
+
+footer {
+  border-top: 4px solid black;
+  padding-top: 1rem;
+  margin: 2rem 0;
 }
 
 
