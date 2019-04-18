@@ -44,11 +44,16 @@ p,
 blockquote {
   line-height: 1.8;
   margin-top: 1rem;
+}
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+img,
+video,
+iframe {
+  max-width: 100%;
+}
+img,
+video {
+  height: auto;
 }
 
 h1 {
