@@ -11,6 +11,14 @@
   }
 }
 
+@mixin visuallyHidden {
+  position: absolute !important;
+  height: 1px; width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
 $primary: #0875BB;
 $containerWidth: 880px;
 
@@ -84,6 +92,25 @@ header {
     line-height: 1.8;
   }
 }
+
+.page header {
+  @include visuallyHidden();
+}
+.page main h2 {
+  font-size: 2.4rem;
+}
+nav {
+  border-bottom: 4px solid black;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.4;
+
+  .divider {
+    display: inline-block;
+    margin: 0 0.4rem;
+  }
+}
+
 
 .projects {
   @include clearfix();

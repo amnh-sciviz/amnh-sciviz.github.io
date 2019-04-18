@@ -1,25 +1,19 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>{{ site.title }} / {{ page.title }}</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/app.css" />
-</head>
-<body>
+{% include head.html %}
 
-  <div class="container">
+  <div class="container page">
     <header>
-      <h1>Science Visualization Group @<a href="https://www.amnh.org/">AMNH</a></h1>
-      <h2>AMNH's <a href="/">Science Visualization Group</a> (SVG) specializes in leveraging data across
-      emerging media platforms to engage visitors with new science in the
-      context of permanent exhibits</h2>
+      <h1>Science Visualization Group</h1>
     </header>
+    <nav>
+      <a href="https://www.amnh.org/">AMNH</a>
+      <span class="divider">&gt;</span>
+      <a href="/">{{ site.title }}</a>
+      <span class="divider">&gt;</span>
+      {{ page.title }}
+    </nav>
     <main>
       {{ content }}
     </main>
   </div>
 
-</body>
+{% include foot.html %}
