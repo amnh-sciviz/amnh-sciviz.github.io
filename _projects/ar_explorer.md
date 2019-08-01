@@ -2,7 +2,7 @@
 layout: page
 title: AR Explorer
 image: /assets/img/ar_explorer_thumbnail.jpg
-year: 2019
+year: 2019.6
 permalink: /ar-explorer/
 ---
 
