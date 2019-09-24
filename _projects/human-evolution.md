@@ -2,7 +2,7 @@
 layout: page
 title: Seven Million Years of Human Evolution
 image: /assets/img/human_evolution_thumbnail.jpg
-year: 2019
+year: 2018
 permalink: /human-evolution/
 ---
 
