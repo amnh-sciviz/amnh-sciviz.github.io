@@ -19,3 +19,5 @@ Funded in part by NASA, OpenSpace brings the latest techniques from data visuali
 OpenSpace works on multiple operating systems, from domes to theaters, flat screens, touch tables, and VR goggles. With an extensible architecture powering high resolution tiled displays, OpenSpace makes use of the latest graphic card technologies for rapid data throughput. In addition, OpenSpace enables simultaneous connections across the globe, creating opportunity for shared experiences among audiences worldwide. 
 
 ![OpenSpace screenshot of Ganges](/assets/img/openspace_ganges.png)
+
+Contact the OpenSpace Team directly at <openspace@amnh.org>.
