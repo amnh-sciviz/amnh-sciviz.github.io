@@ -14,7 +14,7 @@ Winner of 2018 Vizzie Award, "Expert’s Choice award for best video," from the 
 
 ### Earth Day 1970-2019: No Time to Waste
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=J3PqaeE8RVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3PqaeE8RVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Earth Day 1970-2018: Sea Changes
 
