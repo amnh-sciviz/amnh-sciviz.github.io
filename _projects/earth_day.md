@@ -8,12 +8,19 @@ permalink: /earth-day/
 
 ## Earth Day Video Series
 
-The first Earth Day was in 1970. What’s changed since?
+The first Earth Day in 1970 marked a new public consciousness of the ecological perils caused by--and threatening--humanity. Today, it’s celebrated in nearly every country. Our annual Earth Day video highlights environmental changes since 1970. The playful infographic-style animation brings decades of data from NASA, NOAA and other trusted scientific organizations into a common visual language, illustrating progress in some areas, but dangerous trends in others. 
 
-### Earth Day 2017
+Winner of 2018 Vizzie Award, "Expert’s Choice award for best video," from the National Science Foundation.
+
+### Earth Day 1970-2019: No Time to Waste
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=J3PqaeE8RVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Earth Day 1970-2018: Sea Changes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1a622tjkeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Earth Day 1970-2017: What's Changed?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xClCgciaSYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Earth Day 2018
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k1a622tjkeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
