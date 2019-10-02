@@ -6,7 +6,7 @@ year: 2017
 permalink: /earth-day/
 ---
 
-## Earth Day Video Series
+## Earth Day video series
 
 The first Earth Day in 1970 marked a new public consciousness of the ecological perils caused by--and threatening--humanity. Today, it’s celebrated in nearly every country. Our annual Earth Day video highlights environmental changes since 1970. The playful infographic-style animation brings decades of data from NASA, NOAA and other trusted scientific organizations into a common visual language, illustrating progress in some areas, but dangerous trends in others. 
 
