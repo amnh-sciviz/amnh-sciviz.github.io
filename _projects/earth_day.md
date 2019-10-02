@@ -10,7 +10,7 @@ permalink: /earth-day/
 
 The first Earth Day in 1970 marked a new public consciousness of the ecological perils caused by--and threatening--humanity. Today, it’s celebrated in nearly every country. Our annual Earth Day video highlights environmental changes since 1970. The playful infographic-style animation brings decades of data from NASA, NOAA and other trusted scientific organizations into a common visual language, illustrating progress in some areas, but dangerous trends in others.
 
-Winner of [2018 Vizzie Award](https://www.popsci.com/vizzies-winners-2018/), "Expert’s Choice award for best video," from the National Science Foundation.
+Winner of <a href="https://www.popsci.com/vizzies-winners-2018/" target="_blank">2018 Vizzie Award</a>, "Expert’s Choice award for best video," from the National Science Foundation.
 
 ### Earth Day 1970-2019: No Time to Waste
 
