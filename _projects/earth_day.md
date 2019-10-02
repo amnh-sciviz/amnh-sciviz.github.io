@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Earth Day Video Series
+title: Earth Day video series
 image: /assets/img/earth_day_thumbnail.jpg
-year: 2017
+year: 2019-04
 permalink: /earth-day/
 ---
 
