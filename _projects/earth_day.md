@@ -2,13 +2,13 @@
 layout: page
 title: Earth Day video series
 image: /assets/img/earth_day_thumbnail.jpg
-year: 2019-04
+year: 2019.04
 permalink: /earth-day/
 ---
 
 ## Earth Day video series
 
-The first Earth Day in 1970 marked a new public consciousness of the ecological perils caused by--and threatening--humanity. Today, it’s celebrated in nearly every country. Our annual Earth Day video highlights environmental changes since 1970. The playful infographic-style animation brings decades of data from NASA, NOAA and other trusted scientific organizations into a common visual language, illustrating progress in some areas, but dangerous trends in others. 
+The first Earth Day in 1970 marked a new public consciousness of the ecological perils caused by--and threatening--humanity. Today, it’s celebrated in nearly every country. Our annual Earth Day video highlights environmental changes since 1970. The playful infographic-style animation brings decades of data from NASA, NOAA and other trusted scientific organizations into a common visual language, illustrating progress in some areas, but dangerous trends in others.
 
 Winner of [2018 Vizzie Award](https://www.popsci.com/vizzies-winners-2018/), "Expert’s Choice award for best video," from the National Science Foundation.
 
@@ -23,4 +23,3 @@ Winner of [2018 Vizzie Award](https://www.popsci.com/vizzies-winners-2018/), "Ex
 ### Earth Day 1970-2017: What's Changed?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xClCgciaSYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
