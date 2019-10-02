@@ -46,7 +46,7 @@ permalink: /ar-shark/
 ---
 ```
 
-All pages must have these here, so don't delete them! The `title:` and `image:` values are used to populate the homepage. The `year:` is used for ordering the projects on the homepage, which is reverse chronological order. You can further sort within years by adding a month, like `2018-04`.
+All pages must have these here, so don't delete them! The `title:` and `image:` values are used to populate the homepage. The `year:` is used for ordering the projects on the homepage, which is reverse chronological order. You can further sort within years by adding a month, like `2018.04`.
 
 The `permalink:` determines what the URL for this page looks like. For the example above, the URL would be `https://amnh-sciviz.github.io/ar-shark/`.  Note that the `/` at the end is necessary and would not work without it. If this line was omitted, the default URL would be `https://amnh-sciviz.github.io/projects/ar_shark.html` (not as pretty.)
 
