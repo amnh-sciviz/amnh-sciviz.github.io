@@ -16,8 +16,7 @@
 title: Science Visualization Group
 email: svg@amnh.org
 description: >- # this means to ignore newlines until "baseurl:"
-  AMNH's Science Visualization Group (SVG) specializes in leveraging scientific
-  data across emerging media platforms to engage museum visitors with new science.
+We are the SciViz Group at the American Museum of Natural History in New York City. We produce videos, data visualizations and emerging-media interactives to engage museum visitors with fundamental scientific concepts and important new discoveries. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 canonical_url: "https://amnh-sciviz.github.io"
