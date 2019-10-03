@@ -1,6 +1,6 @@
 ---
 layout: page
-title: T. rex: Skeleton Crew
+title: T. rex Skeleton Crew
 image: /assets/img/vrex_thumbnail.jpg
 year: 2019
 permalink: /vrex/
