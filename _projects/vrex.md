@@ -8,7 +8,7 @@ permalink: /vrex/
 
 ## T. rex: Skeleton Crew
 
-T rex: Skeleton Crew is AMNH’s first interactive VR experience. We developed the wireless, multiplayer experience in partnership with HTC VIVE and in collaboration with Immersion VR. It’s featured in the Museum’s special exhibition <a href="https://www.amnh.org/exhibitions/t-rex-the-ultimate-predator" target="_blank">T. rex: The Ultimate Predator</a>, running March 2019-August 2020. 
+T. rex: Skeleton Crew is AMNH’s first interactive VR experience. We developed the wireless, multiplayer experience in partnership with HTC VIVE and in collaboration with Immersion VR. It’s featured in the Museum’s special exhibition <a href="https://www.amnh.org/exhibitions/t-rex-the-ultimate-predator" target="_blank">T. rex: The Ultimate Predator</a>, running March 2019-August 2020. 
 
 Learn more about the project in this behind-the-scenes trailer.
 
