@@ -16,4 +16,4 @@ Learn more about the project in this behind-the-scenes trailer.
 
 In the four-minute experience, players work together to build a T. rex fossil skeleton and then watch it come to life as the modern world transforms into Hell Creek, Montana 66 million years ago. Here’s a taste of what players see.
 
-<video src="/assets/video/T.Rex_Trailer.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/T.Rex_Trailer.mp4"></video>
