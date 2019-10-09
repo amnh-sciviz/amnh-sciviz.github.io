@@ -13,3 +13,6 @@ T. rex: Skeleton Crew is AMNH’s first interactive VR experience. We developed 
 Learn more about the project in this behind-the-scenes trailer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cxaibw-ei7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the four-minute experience, players work together to build a T. rex fossil skeleton and then watch it come to life as the modern world transforms into Hell Creek, Montana 66 million years ago. Here’s a taste of what players see.
+
