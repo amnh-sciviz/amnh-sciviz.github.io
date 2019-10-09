@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Science Visualization Group
 email: svg@amnh.org
-description: We're the SciViz Group at the American Museum of Natural History in New York City. We produce videos, data visualizations and emerging-media interactives to engage museum visitors with fundamental scientific concepts and important new discoveries. All of our products and prototypes leverage scientific data, including CT scans, biomechanical models, climate data and more. Here are some of our recent projects. 
+description: We're the SciViz Group at the American Museum of Natural History in New York City. We produce videos, data visualizations and emerging-media interactives to engage museum visitors with fundamental scientific concepts and important new discoveries. All of our products and prototypes leverage scientific data, including CT scans, biomechanical models, climate data, space observations and simulations from NASA, and more. Here are some of our recent projects. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 canonical_url: "https://amnh-sciviz.github.io"
