@@ -18,7 +18,8 @@ Compare a baby <i>T. rex</i> skeleton (in AR) to the adult on display. Young <i>
 
 ### Pterosaur, Hall of Vertebrate Origins
 
-Stand face-to-chest with the giraffe-sized <i>Quetzalcoatlus</i> (in AR), a model developed from the only fossil of this species discovered: a single arm bone (on display). See scaled-down animation of <i>Quetzalcoatlus</i> take-off, long-distance flight, and landing, based on biomechanical models. 
+Stand face-to-chest with the giraffe-sized <i>Quetzalcoatlus northropi</i> (in AR), a model developed from the only fossil of this pterosaur species discovered: a single arm bone (on display). See a scaled-down <i>Quetzalcoatlus</i> in flight, an animation based on biomechanical models. 
+
 
 ![A screenshot of a hand holding a smartphone that is displaying a Quetzalcoatlus in real size overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_ptero.jpg)
 
