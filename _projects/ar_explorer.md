@@ -8,11 +8,11 @@ permalink: /ar-explorer/
 
 ## AR in the Explorer App
 
-In collaboration with the Museum's Digital team and consulting directly with Museum scientists, we developed five augmented reality (AR) experiences in the Museum's [Explorer App](https://www.amnh.org/apps/explorer) with the goals to highlight opportunities to augment underserved exhibits around the museum and surface real scientific data for visitors. The following are the five experiences that can be found throughout the Museum:
+In collaboration with the AMNH Digital team, we produced five augmented reality (AR) experiences, which are embedded in the Museum’s [Explorer App](https://www.amnh.org/apps/explorer) a wayfinding and self-guided tour app for visitors. We worked with Museum scientists to acquire, visualize and animate data assets. All experiences were designed to enhance exhibits on display in the Museum.
 
-### T. rex skeleton, 4th floor
+### <i>T. rex</i> skeleton, Hall of Saurischian Dinosaurs
 
-View a 1-year-old T. rex skeleton and explore morphological differences between juveniles and adults.
+Compare a baby <i>T. rex</i> skeleton (in AR) to the adult on display. Young <i>T. rex</i> had comparatively longer arms and legs, and a smaller jaw—evidence that its role was closer to pursued prey than feared predator.
 
 ![A screenshot of a hand holding a smartphone that is displaying a 1-year-old T. rex skeleton overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_trex.jpg)
 
