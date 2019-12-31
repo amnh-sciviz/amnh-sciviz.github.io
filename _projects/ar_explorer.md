@@ -37,6 +37,6 @@ Compare 3D scans of footprints (in AR) from three great apes. Can you tell whoâ€
 
 ### Lyleâ€™s Flying Fox (fruit bat), Hall of Extinct Mammals
 
-There are over 1,300 known bat species, each with a unique skull shape. Visitors can enlarge and explore CT scans of three bat skulls (in AR) to experience this variety, and learn more about the adaptations that drive bat diversity in the physical exhibit. 
+There are over 1,300 known bat species, each with a unique skull shape. Visitors enlarge and explore CT scans of three bat skulls (in AR) to experience this variety. And in the physical exhibit, they learn about the adaptations that drive bat diversity. 
 
 ![A screenshot of a hand holding a smartphone that is displaying a three small bat skulls overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_bats.jpg)
