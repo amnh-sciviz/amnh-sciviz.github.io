@@ -8,17 +8,17 @@ permalink: /ar-explorer/
 
 ## AR in Explorer App
 
-In collaboration with the AMNH Digital team, we produced five augmented reality (AR) experiences, which are embedded in the Museum’s [Explorer App](https://www.amnh.org/apps/explorer), a wayfinding and self-guided tour app for visitors. We worked with Museum scientists to acquire, visualize and animate data assets. All experiences were designed to enhance exhibits on display in the Museum.
+In collaboration with the AMNH Digital team, we produced five augmented reality (AR) experiences, which are embedded in the Museum’s [Explorer App](https://www.amnh.org/apps/explorer), a self-guided tour and wayfinding app for visitors. We worked with Museum scientists to acquire, visualize and animate data assets. All experiences were designed to enhance exhibits on display in the Museum.
 
 ### <i>T. rex</i> skeleton, Hall of Saurischian Dinosaurs
 
-Compare a baby <i>T. rex</i> skeleton (in AR) to the adult on display. Young <i>T. rex</i> had comparatively longer arms and legs, and a smaller jaw—evidence that its role was closer to pursued prey than feared predator.
+Compare a baby <i>T. rex</i> skeleton (in AR) to the adult on display. Young <i>T. rex</i> had comparatively longer arms and legs, and a smaller jaw—evidence that its role was closer to pursued prey than fearsome predator.
 
 ![A screenshot of a hand holding a smartphone that is displaying a 1-year-old T. rex skeleton overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_trex.jpg)
 
-### Pterosaur, 4th floor
+### Pterosaur, Hall of Vertebrate Origins
 
-View the actual size of a Quetzalcoatlus or an animated scaled-down version in flight.
+Stand face-to-chest with the giraffe-sized <i>Quetzalcoatlus</i> (in AR), a model developed from the only fossil of this species discovered: a single arm bone (on display). See scaled-down animation of <i>Quetzalcoatlus</i> take-off, long-distance flight, and landing, based on biomechanical models. 
 
 ![A screenshot of a hand holding a smartphone that is displaying a Quetzalcoatlus in real size overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_ptero.jpg)
 
