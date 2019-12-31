@@ -25,7 +25,7 @@ Stand face-to-chest with the giraffe-sized <i>Quetzalcoatlus northropi</i> (in A
 
 ### Mako shark, Hall of Biodiversity
 
-View a Mako shark skeleton with annotations that highlight morphology that makes it the fastest swimmer
+View a life-sized Mako shark up close in AR. See how it swims and uses a protractible jaw to catch tuna. We animated a CT scan of a Mako skeleton to allow visitors to experience a physical model on display. 
 
 <video src="/assets/video/ar_explorer_mako.mp4" muted autoplay loop controls></video>
 
