@@ -31,7 +31,7 @@ View a life-sized Mako shark up close in AR. See how it swims and uses a protrac
 
 ### Leotoli footprints, Hall of Human Origins
 
-Compare human, chimp and Lucy footprints. Highlight in-line toes—bipedalism evolved long before other human-like traits, such as big brains.
+Compare 3D scans of footprints (in AR) from three great apes. Can you tell who’s a two-legged walker and who walks on all fours? Using depth data from <i>Australopithecus</i> fossil footprints (on display) and from plaster casts of human and chimp footprints, we demonstrated how scientists deduce that our extinct cousin was bipedal.
 
 ![A screenshot of a hand holding a smartphone that is displaying three different footprints overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_footprints.jpg)
 
