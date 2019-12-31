@@ -6,7 +6,7 @@ year: 2019.6
 permalink: /ar-explorer/
 ---
 
-## AR in the Explorer App
+## AR in Explorer App
 
 In collaboration with the AMNH Digital team, we produced five augmented reality (AR) experiences, which are embedded in the Museum’s [Explorer App](https://www.amnh.org/apps/explorer) a wayfinding and self-guided tour app for visitors. We worked with Museum scientists to acquire, visualize and animate data assets. All experiences were designed to enhance exhibits on display in the Museum.
 
