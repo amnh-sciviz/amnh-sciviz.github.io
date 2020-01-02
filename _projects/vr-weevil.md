@@ -3,7 +3,7 @@ layout: page
 title: CT scans in AR & VR (prototypes)
 image: /assets/img/vr_weevil_thumbnail.jpg
 year: 2017
-permalink: /CT-scan-prototypes/
+permalink: /vr-weevil/
 ---
 
 ## CT scans in AR & VR (prototypes)
