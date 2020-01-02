@@ -7,7 +7,7 @@ permalink: /vr-weevil/
 ---
 
 ## CT scans in AR & VR (prototypes)
-
+In 2017, we produced prototypes of digital experiences across multiple emerging media platforms using CT scans provided by museum scientists. Here are some of those projects. 
 
 ### VR Weevil
 Working with Museum scientist Steve Davis, we developed an immersive, VR experience around the CT scan of a root weevil. Users enter a virtual orange grove, click on a leaf, and are suddenly standing on the leaf by a human-sized weevil. They explore the insect to learn about its wing structure and the fascinating way insects breathe. A soundscape adds to the immersion.
