@@ -6,8 +6,10 @@ year: 2018
 permalink: /star-pose/
 ---
 
-## Star Pose
+## Star Pose, Hall of the Universe
 
-Star Pose is a gesture-based interactive new installation, in the [Cullman Hall of the Universe](https://www.amnh.org/exhibitions/permanent/the-universe), that is available on a periodic basis at the 13-foot-wide and 8-foot tall Astrobulletin. As a visitor steps toward the screen, they are flown from Earth to star constellations including Orion (‘The Hunter’) or Scorpius (‘the Scorpion’), and asked to mimic the shape – or pose – of each. While most depictions of the night sky are typically flat, ‘Star Pose’ aims to highlight the fact that the stars exist in three-dimensional space, with the shape of each changing as you move towards it.
+
+Star Pose is a gesture-based interactive in which a 3D map of the cosmos is rendered in real time. Players contort their bodies into the shape of a familiar constellation (Orion, Scorpius, Gemini or Canis Major), using visual and auditory cues. Then they leave Earth (an Earth-shaped floor mat, actually) and walk toward the screen, each step equivalent to 10 light years’ travel. As they move toward a constellation, the picture morphs because some stars are closer than others. Constellations look like flat pictures, but they exist in three-dimensional space; players experience this message through physical movement.
+
 
 <video src="/assets/video/star_pose.mp4" muted autoplay loop controls></video>
