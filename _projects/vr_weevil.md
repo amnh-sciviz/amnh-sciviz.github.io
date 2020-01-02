@@ -17,13 +17,9 @@ We developed an immersive, VR experience around the CT scan of a root weevil. Us
 
 ### AR Shark
 
-Working with CT scans of a mako shark, we produced an animated, interactive digital asset to augment the mako shark model hanging overhead in the Hall of Biodiversity. We developed versions for Microsoft’s Hololens (a headset) and Google’s Tango (a tablet). More recently, we used this digital asset to produce a finished product, an <a href="https://amnh-sciviz.github.io/ar-explorer/" target="_blank">AR mako shark</a> featured in the Museum’s Explorer app. 
+Working with CT scans of a mako shark, we produced an animated, interactive digital asset to augment the mako shark model hanging overhead in the Hall of Biodiversity. We developed versions for Microsoft’s Hololens (a headset) and Google’s Tango (a tablet). Later, we used this digital asset to produce a finished AR experience, the <a href="https://amnh-sciviz.github.io/ar-explorer/" target="_blank">AR shark featured in the Museum’s Explorer app</a>. 
 
 <video src="/assets/video/arshark.mp4" muted autoplay loop controls></video>
-
-A fly-through of the shark 3d model derived from CT scan:
-
-<video src="/assets/video/shark_ct_scan.mp4" muted autoplay loop controls></video>
 
 
 ## AR with Holocube
