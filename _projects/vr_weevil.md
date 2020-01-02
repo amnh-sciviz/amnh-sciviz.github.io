@@ -19,3 +19,12 @@ Here's another interactive view of the weevil model in 3d:
 <video src="/assets/video/weevil_model.mp4" muted autoplay loop controls></video>
 
 
+### AR Shark
+
+Working with CT scans of a mako shark and consulting directly with Museum scientists John Maisey and John Denton, we produced an animated, interactive digital asset for the Hall of Biodiversity to augment the mako shark model hanging overhead. We developed versions for Microsoft’s Hololens (a headset) and Google's Tango (a tablet).
+
+<video src="/assets/video/arshark.mp4" muted autoplay loop controls></video>
+
+A fly-through of the shark 3d model derived from CT scan:
+
+<video src="/assets/video/shark_ct_scan.mp4" muted autoplay loop controls></video>
