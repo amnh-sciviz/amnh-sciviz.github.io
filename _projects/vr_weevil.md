@@ -17,13 +17,13 @@ We developed an immersive, VR experience around the CT scan of a root weevil. Us
 
 ### AR Shark
 
-Working with CT scans of a mako shark, we produced an animated, interactive digital asset to augment the mako shark model hanging overhead in the Hall of Biodiversity. We developed versions for Microsoft’s Hololens (a headset) and Google’s Tango (a tablet). Later, we used this digital asset to produce a finished AR experience, the <a href="https://amnh-sciviz.github.io/ar-explorer/" target="_blank">AR shark featured in the Museum’s Explorer app</a>. 
+Working with CT scans of a mako shark, we produced an animated, interactive digital asset to augment the mako shark model hanging overhead in the Hall of Biodiversity. We developed versions for Microsoft’s Hololens (a headset) and Google’s Tango (a tablet). Later, we used this digital asset to produce a finished experience, the <a href="https://amnh-sciviz.github.io/ar-explorer/" target="_blank">AR shark featured in the Museum’s Explorer app</a>. 
 
 <video src="/assets/video/arshark.mp4" muted autoplay loop controls></video>
 
 
 ### AR with Holocube
 
-We used the CT scan of the mako shark, as well as scans of a microfossil, weevil and ghost bat, to develop a Holocube experience that required much less facilitation than the other prototypes. Manipulating the Holocube in one hand, and viewing it through the camera of a smartphone or tablet, visitors could examine the scans as 3D images on the screen. They could rotate the specimen by turning the cube, and even go inside the specimen by bringing the cube closer to the camera. Additional touchscreen features allowed them to play with the specimens in other ways (e.g., watching the shark swim and bite; bisecting the microfossil into halves).
+We used CT scans of the mako shark and  weevil, as well as a microfossil and a bat skull, to develop a Holocube experience that required  less facilitation than the other prototypes. Manipulating the Holocube in one hand, and viewing it through the camera of a tablet, visitors could examine the scans as 3D images on the screen. They could rotate the specimen by turning the cube, and even go inside the specimen by bringing the cube closer to the camera. 
 
 <video src="/assets/video/holocube.mp4" muted autoplay loop controls></video>
