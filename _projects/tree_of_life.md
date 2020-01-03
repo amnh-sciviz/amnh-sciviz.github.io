@@ -21,3 +21,5 @@ In this tree building game, four players are given a supply of game pieces, free
 ![Tree of Life game screenshot](/assets/img/tree_of_life_game.png)
 
 ### Tree of Life tablet (prototype)
+![Tree of Life game screenshots](/assets/img/ToL-insects.png)
+
