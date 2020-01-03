@@ -8,10 +8,12 @@ permalink: /tree-of-life/
 
 ## Tree of Life game
 
-We developed a smartphone-based game that has visitors build an evolutionary tree by comparing three species at a time and determining which two are more closely related. The game introduces players to a fundamental practice in evolutionary biology: scientists often use the "three-taxon statement" method to place newly discovered species in the evolutionary tree. To make deductions about relatedness, players are given hints about morphology and behavior, and are encouraged to look closely at physical exhibits on display. The game is a popular addition to the [Explorer app](https://www.amnh.org/apps/explorer), a wayfinding and self-guided tour app for AMNH visitors. 
+We developed a smartphone-based game that has visitors build an evolutionary tree by comparing three species at a time and determining which two are more closely related. The game introduces players to a fundamental practice in evolutionary biology: scientists often use the "three-taxon statement" method to place newly discovered species in the evolutionary tree. To make deductions about relatedness, players are given hints about morphology and behavior, and are encouraged to look closely at physical exhibits on display. The game is a popular addition to the <a href="https://www.amnh.org/apps/explorer" target="_blank">Explorer app</a>, a wayfinding and self-guided tour app for AMNH visitors. 
 
 ![Tree of Life game screenshots](/assets/img/ToL-whale1.png)
 ![Tree of Life game screenshots](/assets/img/ToL-whale2.png)
+
+
 
 To explore how we could expand the reach of the Tree of Life game, we developed and tested two prototypes: a tablet-based version and a multiplayer touchtable. 
 
