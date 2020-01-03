@@ -19,7 +19,7 @@ To explore how we could expand the reach of the Tree of Life game, we developed 
 
 
 ## Tree of Life tablet (prototype)
-In this version, we focused on insects and their place in the evolutionary tree of life. The <a href="https://natalia-rodriguez.github.io/tol/Insect-Newick/" target="_blank">prototype</a> was user-tested and evaluated as part of a content-planning exercise for the Museum's insectarium and butterfly viviarium, new exhibition spaces being developed for the <a href="https://www.amnh.org/about/gilder-center" target="_blank">Gilder Center for Science, Education and Innovation</a>. 
+In this version, we focused on insects and their place in the evolutionary tree of life. The prototype was user-tested and evaluated as part of a content-planning exercise for the Museum's insectarium and butterfly viviarium, new exhibition spaces being developed for the <a href="https://www.amnh.org/about/gilder-center" target="_blank">Gilder Center for Science, Education and Innovation</a>. (Play the prototype game <a href="https://natalia-rodriguez.github.io/tol/Insect-Newick/" target="_blank">here</a>.)
 
 
 ![Tree of Life game screenshots](/assets/img/ToL-insects1.png)
