@@ -8,7 +8,7 @@ permalink: /tree-of-life/
 
 ## Tree of Life game
 
-We developed a smartphone-based game that has visitors build an evolutionary tree by comparing three species at a time and determining which two are more closely related. Players are given thought-provoking hints about morphology and behavior, and look closely at dioramas on display in the Museum halls to make deductions about relatedness. The game is a popular addition to the [Explorer app](https://www.amnh.org/apps/explorer), a self-guided tour of AMNH exhibits for visitors. 
+We developed a smartphone-based game that has visitors build an evolutionary tree by comparing three species at a time and determining which two are more closely related. To make deductions about relatedness, players are given thought-provoking hints about morphology and behavior, and are encouraged to look closely at dioramas on display in the Museum halls for clues. The game is a popular addition to the [Explorer app](https://www.amnh.org/apps/explorer), a self-guided tour of AMNH exhibits for visitors. 
 
 ![Tree of Life game screenshots](/assets/img/ToL-gorilla.png)
 
