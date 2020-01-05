@@ -13,7 +13,7 @@ Learn more about the project in this behind-the-scenes trailer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cxaibw-ei7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the four-minute VR experience, players work together to build a <i>T. rex</i> fossil skeleton and then watch it come to life as the modern world transforms into Hell Creek, Montana 66 million years ago. This promotional trailer gives a taste of what players see:
+In the four-minute VR experience, players work together to build a <i>T. rex</i> fossil skeleton and then watch it come to life as the modern world transforms into Hell Creek, Montana 66 million years ago. This promotional trailer gives a taste of what players experience:
 
 <video src="/assets/video/T.Rex_Trailer.mp4" loop controls></video>
 
