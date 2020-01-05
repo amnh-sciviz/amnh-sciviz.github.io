@@ -14,13 +14,12 @@ permalink: /vrex/
 
 In the four-minute VR experience, players work together to build a <i>T. rex</i> fossil skeleton and then watch it come to life as the modern world transforms into Hell Creek, Montana 66 million years ago. Here’s a taste of what players see.
 
-<video src="/assets/video/T.Rex_Trailer.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/T.Rex_Trailer.mp4" loop controls></video>
+
 
 ### Single-player version
 We also developed an extended, single-player version of the game, which is <a href="https://www.viveport.com/apps/38908318-8887-4ca8-aec5-af10fec00d0e/American_Museum_of_Natural_History's_T._rex:_Skeleton_Crew/" target="_blank">available for download</a> on Viveport. Because this version is removed from the educational context of the <i>Ultimate Predator</i> exhibition, we produced a series of animated videos, presented by AMNH paleontologist Mark Norell, which players activate by clicking on parts of the <i>T. rex</i> skeleton or objects in the scene during the "guided-tour" mode. Here are a few of those videos:
 
-
-<video src="/assets/video/trex-stereovision.mp4" loop controls></video>
 
 <video src="/assets/video/trex-senseofsmell.mp4" loop controls></video>
 
