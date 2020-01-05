@@ -20,10 +20,10 @@ In the four-minute VR experience, players work together to build a <i>T. rex</i>
 We also developed an extended, single-player version of the game, which is <a href="https://www.viveport.com/apps/38908318-8887-4ca8-aec5-af10fec00d0e/American_Museum_of_Natural_History's_T._rex:_Skeleton_Crew/" target="_blank">available for download</a> on Viveport. Because this version is removed from the educational context of the <i>Ultimate Predator</i> exhibition, we produced a series of animated videos, presented by AMNH paleontologist Mark Norell, which players activate by clicking on parts of the <i>T. rex</i> skeleton or objects in the scene during the "guided-tour" mode. Here are a few of those videos:
 
 
-<video src="/assets/video/trex-stereovision.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/trex-stereovision.mp4" loop controls></video>
 
-<video src="/assets/video/trex-senseofsmell.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/trex-senseofsmell.mp4" loop controls></video>
 
-<video src="/assets/video/trex-musclemass.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/trex-musclemass.mp4" loop controls></video>
 
-<video src="/assets/video/trex-feathers.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/trex-feathers.mp4" loop controls></video>
