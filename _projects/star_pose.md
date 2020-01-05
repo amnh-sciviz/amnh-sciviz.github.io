@@ -8,6 +8,9 @@ permalink: /star-pose/
 
 ## Star Pose
 
+####The experience
 Star Pose is a gesture-based interactive in which a 3D map of the cosmos is rendered in real time, in respose to . We developed this interactive for the Hall of the Universe, where it plays on a large video screen. To play, visitors contort their bodies into the shape of a familiar constellation (Orion, Scorpius, Gemini or Canis Major), using visual and auditory cues. Then they leave Earth (an Earth-shaped floor mat, actually) and walk toward the screen, each step equivalent to 10 light years’ travel. As they move toward a constellation, the picture morphs because some stars are closer than others. Constellations look like flat pictures, but they exist in three-dimensional space; players experience this message through physical movement.
+
+####The technology
 
 <video src="/assets/video/star_pose.mp4" muted autoplay loop controls></video>
