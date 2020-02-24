@@ -8,7 +8,8 @@ permalink: /ar-explorer/
 
 ## AR content in Explorer app
 In collaboration with the AMNH Digital team, we produced five augmented reality (AR) experiences, which are embedded in the Museum’s [Explorer app](https://www.amnh.org/apps/explorer), a self-guided tour and wayfinding app for visitors. We worked with Museum scientists to acquire, visualize, animate and annotate data assets. All experiences were designed to enhance exhibits on display in the Museum. 
-(/assets/img/ar_explorer_trex_preview.png)
+
+![A screenshot of a hand holding a smartphone that is displaying a 1-year-old T. rex skeleton overlaid in the Museum's physical exhibits](/assets/img/ar_explorer_trex_preview.png)
 
 
 ### <i>T. rex</i> skeleton, Hall of Saurischian Dinosaurs
