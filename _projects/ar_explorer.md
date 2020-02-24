@@ -24,6 +24,7 @@ Stand face-to-chest with the giraffe-sized <i>Quetzalcoatlus northropi</i> (in A
 ![A screenshot of a hand holding a smartphone that is displaying a Quetzalcoatlus in real size overlaid in the Museum's physical exhibits](/assets/img/ar_pterosaur_big.png)
 
 <video src="/assets/video/ar_pterosaur_1.MP4" muted autoplay loop controls></video>
+<video src="/assets/video/ar_pterosaur_2.MP4" muted autoplay loop controls></video>
 
 ### Mako shark, Hall of Biodiversity
 View a life-sized Mako shark up close in AR. See how it swims and uses a protractible jaw to catch tuna. We animated a CT scan of a Mako skeleton to complement a physical model on display. 
