@@ -20,11 +20,12 @@ Working with CT scans of a mako shark, we produced an animated, interactive digi
 ### VR Weevil
 We developed an immersive, VR experience around the CT scan of a root weevil. Users enter a virtual orange grove, click on a leaf, and are suddenly standing on the leaf by a human-sized weevil. They explore the insect to learn about its wing structure and the fascinating way insects breathe. A soundscape adds to the immersion.
 
-<video src="/assets/video/vr_weevil.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/weevil_model.mp4" muted loop controls></video>
+<video src="/assets/video/vr_weevil.mp4" muted loop controls></video>
 
 
 ### AR with Holocube
 
 We used CT scans of the mako shark and  weevil, as well as a microfossil and a bat skull, to develop a Holocube experience that required  less facilitation than the other prototypes. Manipulating the Holocube in one hand, and viewing it through the camera of a tablet, visitors could examine the scans as 3D images on the screen. They could rotate the specimen by turning the cube, and even go inside the specimen by bringing the cube closer to the camera. 
 
-<video src="/assets/video/holocube.mp4" muted autoplay loop controls></video>
+<video src="/assets/video/holocube.mp4" muted loop controls></video>
