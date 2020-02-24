@@ -20,11 +20,10 @@ Compare a baby <i>T. rex</i> skeleton (in AR) to the adult on display. Young <i>
 ### Pterosaur, Hall of Vertebrate Origins
 Stand face-to-chest with the giraffe-sized <i>Quetzalcoatlus northropi</i> (in AR), a model developed from the only fossil of this pterosaur species discovered: a single arm bone (on display). See a scaled-down <i>Quetzalcoatlus</i> in flight, an animation based on biomechanical models. 
 
-![A picture of a Quetzalcoatlus left arm bone display](/assets/img/ar_pterosaur_display.jpg)
-![A screenshot of a hand holding a smartphone that is displaying a Quetzalcoatlus in real size overlaid in the Museum's physical exhibits](/assets/img/ar_pterosaur_big.jpg)
+![A picture of a Quetzalcoatlus left arm bone display](/assets/img/ar_pterosaur_display.png)
+![A screenshot of a hand holding a smartphone that is displaying a Quetzalcoatlus in real size overlaid in the Museum's physical exhibits](/assets/img/ar_pterosaur_big.png)
 
 <video src="/assets/video/ar_pterosaur_1.MP4" muted autoplay loop controls></video>
-<video src="/assets/video/ar_pterosaur_2.MP4" muted autoplay loop controls></video>
 
 ### Mako shark, Hall of Biodiversity
 View a life-sized Mako shark up close in AR. See how it swims and uses a protractible jaw to catch tuna. We animated a CT scan of a Mako skeleton to complement a physical model on display. 
