@@ -12,6 +12,10 @@ The first Earth Day in 1970 marked a new public consciousness of the ecological 
 
 Winner of <a href="https://www.popsci.com/vizzies-winners-2018/" target="_blank">2018 Vizzie Award</a>, "Expert’s Choice award for best video," from the National Science Foundation.
 
+### Earth Day 1970-2019: 50th Anniversary || Time Will Tell
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XBrnnByieL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Earth Day 1970-2019: No Time to Waste
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J3PqaeE8RVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
